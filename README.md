@@ -1,4 +1,3 @@
-Tentu! Berikut adalah contoh dokumentasi untuk kode yang telah Anda buat yang dapat digunakan di GitHub. Dokumentasi ini akan memberi informasi yang jelas mengenai fungsi dan alur kerja sistem.
 
 ---
 
